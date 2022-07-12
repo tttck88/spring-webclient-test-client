@@ -1,0 +1,5 @@
+server:
+  port: ${service_port:5001}
+spring:
+  application:
+    name: webclient
